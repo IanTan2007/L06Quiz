@@ -20,7 +20,7 @@ Splatoon Trivia Quiz is a mobile quiz application developed using React Native a
 Screenshots:
 
 ![img.png](img.png)
-[Insert screenshot of quiz results here]
+
 ![img_1.png](img_1.png)
 # Demo Video
 
